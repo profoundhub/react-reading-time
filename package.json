@@ -7,7 +7,7 @@
     "start": "webpack-dev-server --config ./example/webpack.config.js --hot --port 8881"
   },
   "keywords": [],
-  "author": "Daniel Lim <Daniel@profoundideation.com> (https://profoundideation.com/)",
+  "author": "Daniel Lim <Daniel@Profoundideation.com> (https://Profoundideation.com/)",
   "license": "ISC",
   "devDependencies": {
     "babel": "^6.5.2",
