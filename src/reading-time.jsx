@@ -8,7 +8,7 @@ export default class ReadingTime extends React.Component {
 
   static defaultProps = {
     wordsPerMinute: 270,
-    textColor: 'blue'
+    textColor: 'chocolate'
   };
 
   constructor(props) {
